@@ -1,0 +1,16 @@
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_1\labTask2\labTask2\bin\Debug\net8.0-windows\labTask2.exe
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_1\labTask2\labTask2\bin\Debug\net8.0-windows\labTask2.deps.json
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_1\labTask2\labTask2\bin\Debug\net8.0-windows\labTask2.runtimeconfig.json
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_1\labTask2\labTask2\bin\Debug\net8.0-windows\labTask2.dll
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_1\labTask2\labTask2\bin\Debug\net8.0-windows\labTask2.pdb
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_1\labTask2\labTask2\obj\Debug\net8.0-windows\labTask2.Form1.resources
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_1\labTask2\labTask2\obj\Debug\net8.0-windows\labTask2.csproj.GenerateResource.cache
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_1\labTask2\labTask2\obj\Debug\net8.0-windows\labTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_1\labTask2\labTask2\obj\Debug\net8.0-windows\labTask2.AssemblyInfoInputs.cache
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_1\labTask2\labTask2\obj\Debug\net8.0-windows\labTask2.AssemblyInfo.cs
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_1\labTask2\labTask2\obj\Debug\net8.0-windows\labTask2.csproj.CoreCompileInputs.cache
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_1\labTask2\labTask2\obj\Debug\net8.0-windows\labTask2.dll
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_1\labTask2\labTask2\obj\Debug\net8.0-windows\refint\labTask2.dll
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_1\labTask2\labTask2\obj\Debug\net8.0-windows\labTask2.pdb
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_1\labTask2\labTask2\obj\Debug\net8.0-windows\labTask2.genruntimeconfig.cache
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_1\labTask2\labTask2\obj\Debug\net8.0-windows\ref\labTask2.dll
