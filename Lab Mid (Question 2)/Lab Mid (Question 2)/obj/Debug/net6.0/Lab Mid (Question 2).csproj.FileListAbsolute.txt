@@ -1,0 +1,14 @@
+C:\Users\pak\source\repos\Lab Mid (Question 2)\Lab Mid (Question 2)\bin\Debug\net6.0\Lab Mid (Question 2).exe
+C:\Users\pak\source\repos\Lab Mid (Question 2)\Lab Mid (Question 2)\bin\Debug\net6.0\Lab Mid (Question 2).deps.json
+C:\Users\pak\source\repos\Lab Mid (Question 2)\Lab Mid (Question 2)\bin\Debug\net6.0\Lab Mid (Question 2).runtimeconfig.json
+C:\Users\pak\source\repos\Lab Mid (Question 2)\Lab Mid (Question 2)\bin\Debug\net6.0\Lab Mid (Question 2).dll
+C:\Users\pak\source\repos\Lab Mid (Question 2)\Lab Mid (Question 2)\bin\Debug\net6.0\Lab Mid (Question 2).pdb
+C:\Users\pak\source\repos\Lab Mid (Question 2)\Lab Mid (Question 2)\obj\Debug\net6.0\Lab Mid (Question 2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pak\source\repos\Lab Mid (Question 2)\Lab Mid (Question 2)\obj\Debug\net6.0\Lab Mid (Question 2).AssemblyInfoInputs.cache
+C:\Users\pak\source\repos\Lab Mid (Question 2)\Lab Mid (Question 2)\obj\Debug\net6.0\Lab Mid (Question 2).AssemblyInfo.cs
+C:\Users\pak\source\repos\Lab Mid (Question 2)\Lab Mid (Question 2)\obj\Debug\net6.0\Lab Mid (Question 2).csproj.CoreCompileInputs.cache
+C:\Users\pak\source\repos\Lab Mid (Question 2)\Lab Mid (Question 2)\obj\Debug\net6.0\Lab Mid (Question 2).dll
+C:\Users\pak\source\repos\Lab Mid (Question 2)\Lab Mid (Question 2)\obj\Debug\net6.0\refint\Lab Mid (Question 2).dll
+C:\Users\pak\source\repos\Lab Mid (Question 2)\Lab Mid (Question 2)\obj\Debug\net6.0\Lab Mid (Question 2).pdb
+C:\Users\pak\source\repos\Lab Mid (Question 2)\Lab Mid (Question 2)\obj\Debug\net6.0\Lab Mid (Question 2).genruntimeconfig.cache
+C:\Users\pak\source\repos\Lab Mid (Question 2)\Lab Mid (Question 2)\obj\Debug\net6.0\ref\Lab Mid (Question 2).dll

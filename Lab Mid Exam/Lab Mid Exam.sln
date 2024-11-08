@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Lab Mid Exam", "Lab Mid Exam\Lab Mid Exam.dtproj", "{AC090EA0-6816-4A1A-9586-89B9A9811D57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC090EA0-6816-4A1A-9586-89B9A9811D57}.Development|Default.ActiveCfg = Development
+		{AC090EA0-6816-4A1A-9586-89B9A9811D57}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {715506CF-6660-490E-8D52-8C1C2DF0AEF2}
+	EndGlobalSection
+EndGlobal

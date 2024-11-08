@@ -1,0 +1,3 @@
+C:\Users\pak\source\repos\Q2\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\pak\source\repos\Q2\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\pak\source\repos\Q2\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache

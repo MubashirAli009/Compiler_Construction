@@ -1,0 +1,14 @@
+C:\Users\pak\source\repos\Lab1Activity3(stack data structure)\Lab1Activity3(stack data structure)\bin\Debug\net6.0\Lab1Activity3(stack data structure).exe
+C:\Users\pak\source\repos\Lab1Activity3(stack data structure)\Lab1Activity3(stack data structure)\bin\Debug\net6.0\Lab1Activity3(stack data structure).deps.json
+C:\Users\pak\source\repos\Lab1Activity3(stack data structure)\Lab1Activity3(stack data structure)\bin\Debug\net6.0\Lab1Activity3(stack data structure).runtimeconfig.json
+C:\Users\pak\source\repos\Lab1Activity3(stack data structure)\Lab1Activity3(stack data structure)\bin\Debug\net6.0\Lab1Activity3(stack data structure).dll
+C:\Users\pak\source\repos\Lab1Activity3(stack data structure)\Lab1Activity3(stack data structure)\bin\Debug\net6.0\Lab1Activity3(stack data structure).pdb
+C:\Users\pak\source\repos\Lab1Activity3(stack data structure)\Lab1Activity3(stack data structure)\obj\Debug\net6.0\Lab1Activity3(stack data structure).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pak\source\repos\Lab1Activity3(stack data structure)\Lab1Activity3(stack data structure)\obj\Debug\net6.0\Lab1Activity3(stack data structure).AssemblyInfoInputs.cache
+C:\Users\pak\source\repos\Lab1Activity3(stack data structure)\Lab1Activity3(stack data structure)\obj\Debug\net6.0\Lab1Activity3(stack data structure).AssemblyInfo.cs
+C:\Users\pak\source\repos\Lab1Activity3(stack data structure)\Lab1Activity3(stack data structure)\obj\Debug\net6.0\Lab1Activity3(stack data structure).csproj.CoreCompileInputs.cache
+C:\Users\pak\source\repos\Lab1Activity3(stack data structure)\Lab1Activity3(stack data structure)\obj\Debug\net6.0\Lab1Activity3(stack data structure).dll
+C:\Users\pak\source\repos\Lab1Activity3(stack data structure)\Lab1Activity3(stack data structure)\obj\Debug\net6.0\refint\Lab1Activity3(stack data structure).dll
+C:\Users\pak\source\repos\Lab1Activity3(stack data structure)\Lab1Activity3(stack data structure)\obj\Debug\net6.0\Lab1Activity3(stack data structure).pdb
+C:\Users\pak\source\repos\Lab1Activity3(stack data structure)\Lab1Activity3(stack data structure)\obj\Debug\net6.0\Lab1Activity3(stack data structure).genruntimeconfig.cache
+C:\Users\pak\source\repos\Lab1Activity3(stack data structure)\Lab1Activity3(stack data structure)\obj\Debug\net6.0\ref\Lab1Activity3(stack data structure).dll

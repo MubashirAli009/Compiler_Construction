@@ -1,0 +1,14 @@
+C:\Users\pak\source\repos\Lab2Activity1(removal of extra white spaces)\Lab2Activity1(removal of extra white spaces)\bin\Debug\net6.0\Lab2Activity1(removal of extra white spaces).exe
+C:\Users\pak\source\repos\Lab2Activity1(removal of extra white spaces)\Lab2Activity1(removal of extra white spaces)\bin\Debug\net6.0\Lab2Activity1(removal of extra white spaces).deps.json
+C:\Users\pak\source\repos\Lab2Activity1(removal of extra white spaces)\Lab2Activity1(removal of extra white spaces)\bin\Debug\net6.0\Lab2Activity1(removal of extra white spaces).runtimeconfig.json
+C:\Users\pak\source\repos\Lab2Activity1(removal of extra white spaces)\Lab2Activity1(removal of extra white spaces)\bin\Debug\net6.0\Lab2Activity1(removal of extra white spaces).dll
+C:\Users\pak\source\repos\Lab2Activity1(removal of extra white spaces)\Lab2Activity1(removal of extra white spaces)\bin\Debug\net6.0\Lab2Activity1(removal of extra white spaces).pdb
+C:\Users\pak\source\repos\Lab2Activity1(removal of extra white spaces)\Lab2Activity1(removal of extra white spaces)\obj\Debug\net6.0\Lab2Activity1(removal of extra white spaces).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pak\source\repos\Lab2Activity1(removal of extra white spaces)\Lab2Activity1(removal of extra white spaces)\obj\Debug\net6.0\Lab2Activity1(removal of extra white spaces).AssemblyInfoInputs.cache
+C:\Users\pak\source\repos\Lab2Activity1(removal of extra white spaces)\Lab2Activity1(removal of extra white spaces)\obj\Debug\net6.0\Lab2Activity1(removal of extra white spaces).AssemblyInfo.cs
+C:\Users\pak\source\repos\Lab2Activity1(removal of extra white spaces)\Lab2Activity1(removal of extra white spaces)\obj\Debug\net6.0\Lab2Activity1(removal of extra white spaces).csproj.CoreCompileInputs.cache
+C:\Users\pak\source\repos\Lab2Activity1(removal of extra white spaces)\Lab2Activity1(removal of extra white spaces)\obj\Debug\net6.0\Lab2Activity1(removal of extra white spaces).dll
+C:\Users\pak\source\repos\Lab2Activity1(removal of extra white spaces)\Lab2Activity1(removal of extra white spaces)\obj\Debug\net6.0\refint\Lab2Activity1(removal of extra white spaces).dll
+C:\Users\pak\source\repos\Lab2Activity1(removal of extra white spaces)\Lab2Activity1(removal of extra white spaces)\obj\Debug\net6.0\Lab2Activity1(removal of extra white spaces).pdb
+C:\Users\pak\source\repos\Lab2Activity1(removal of extra white spaces)\Lab2Activity1(removal of extra white spaces)\obj\Debug\net6.0\Lab2Activity1(removal of extra white spaces).genruntimeconfig.cache
+C:\Users\pak\source\repos\Lab2Activity1(removal of extra white spaces)\Lab2Activity1(removal of extra white spaces)\obj\Debug\net6.0\ref\Lab2Activity1(removal of extra white spaces).dll

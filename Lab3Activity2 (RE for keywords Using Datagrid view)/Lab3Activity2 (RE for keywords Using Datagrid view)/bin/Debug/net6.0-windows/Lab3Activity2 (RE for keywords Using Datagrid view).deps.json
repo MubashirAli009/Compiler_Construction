@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab3Activity2 (RE for keywords Using Datagrid view)/1.0.0": {
+        "runtime": {
+          "Lab3Activity2 (RE for keywords Using Datagrid view).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab3Activity2 (RE for keywords Using Datagrid view)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
