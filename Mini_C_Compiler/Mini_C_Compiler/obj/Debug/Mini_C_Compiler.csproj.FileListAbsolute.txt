@@ -1,0 +1,7 @@
+C:\Users\Hasnian\source\repos\Mini_C_Compiler\Mini_C_Compiler\obj\Debug\Mini_C_Compiler.csproj.AssemblyReference.cache
+C:\Users\Hasnian\source\repos\Mini_C_Compiler\Mini_C_Compiler\obj\Debug\Mini_C_Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Hasnian\source\repos\Mini_C_Compiler\Mini_C_Compiler\bin\Debug\Mini_C_Compiler.exe.config
+C:\Users\Hasnian\source\repos\Mini_C_Compiler\Mini_C_Compiler\bin\Debug\Mini_C_Compiler.exe
+C:\Users\Hasnian\source\repos\Mini_C_Compiler\Mini_C_Compiler\bin\Debug\Mini_C_Compiler.pdb
+C:\Users\Hasnian\source\repos\Mini_C_Compiler\Mini_C_Compiler\obj\Debug\Mini_C_Compiler.exe
+C:\Users\Hasnian\source\repos\Mini_C_Compiler\Mini_C_Compiler\obj\Debug\Mini_C_Compiler.pdb
