@@ -1,0 +1,20 @@
+Validation Results:
+Mubashir_009 - Valid
+Letters: 8 (Uppercase: 1, Lowercase: 7), Digits: 3, Underscores: 1
+Generated Password: VtT8i#*4#yyt (Strength: Strong)
+
+ALI@123 - Invalid (Username can only contain letters, numbers, and underscores)
+
+charlie123 - Valid
+Letters: 7 (Uppercase: 0, Lowercase: 7), Digits: 3, Underscores: 0
+Generated Password: VtT8i#*4#yyt (Strength: Strong)
+
+_Hacker22$ - Invalid (Username must start with a letter)
+
+LongUserNameTooLong - Invalid (Username length must be between 5 and 15 characters)
+
+
+Summary:
+Total Usernames: 5
+Valid Usernames: 2
+Invalid Usernames: 3
