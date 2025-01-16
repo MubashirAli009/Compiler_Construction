@@ -1,0 +1,9 @@
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\Lab09\Lab09\bin\Debug\Lab09.exe.config
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\Lab09\Lab09\bin\Debug\Lab09.exe
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\Lab09\Lab09\bin\Debug\Lab09.pdb
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\Lab09\Lab09\obj\Debug\Lab09.csprojResolveAssemblyReference.cache
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\Lab09\Lab09\obj\Debug\Lab09.Form1.resources
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\Lab09\Lab09\obj\Debug\Lab09.Properties.Resources.resources
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\Lab09\Lab09\obj\Debug\Lab09.csproj.GenerateResource.Cache
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\Lab09\Lab09\obj\Debug\Lab09.exe
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\Lab09\Lab09\obj\Debug\Lab09.pdb
