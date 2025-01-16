@@ -1,0 +1,16 @@
+C:\Users\pak\source\repos\Lab3Activity1(RE for constants)\Lab3Activity1(RE for constants)\bin\Debug\net6.0-windows\Lab3Activity1(RE for constants).exe
+C:\Users\pak\source\repos\Lab3Activity1(RE for constants)\Lab3Activity1(RE for constants)\bin\Debug\net6.0-windows\Lab3Activity1(RE for constants).deps.json
+C:\Users\pak\source\repos\Lab3Activity1(RE for constants)\Lab3Activity1(RE for constants)\bin\Debug\net6.0-windows\Lab3Activity1(RE for constants).runtimeconfig.json
+C:\Users\pak\source\repos\Lab3Activity1(RE for constants)\Lab3Activity1(RE for constants)\bin\Debug\net6.0-windows\Lab3Activity1(RE for constants).dll
+C:\Users\pak\source\repos\Lab3Activity1(RE for constants)\Lab3Activity1(RE for constants)\bin\Debug\net6.0-windows\Lab3Activity1(RE for constants).pdb
+C:\Users\pak\source\repos\Lab3Activity1(RE for constants)\Lab3Activity1(RE for constants)\obj\Debug\net6.0-windows\Lab3Activity1_RE_for_constants_.Form1.resources
+C:\Users\pak\source\repos\Lab3Activity1(RE for constants)\Lab3Activity1(RE for constants)\obj\Debug\net6.0-windows\Lab3Activity1(RE for constants).csproj.GenerateResource.cache
+C:\Users\pak\source\repos\Lab3Activity1(RE for constants)\Lab3Activity1(RE for constants)\obj\Debug\net6.0-windows\Lab3Activity1(RE for constants).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pak\source\repos\Lab3Activity1(RE for constants)\Lab3Activity1(RE for constants)\obj\Debug\net6.0-windows\Lab3Activity1(RE for constants).AssemblyInfoInputs.cache
+C:\Users\pak\source\repos\Lab3Activity1(RE for constants)\Lab3Activity1(RE for constants)\obj\Debug\net6.0-windows\Lab3Activity1(RE for constants).AssemblyInfo.cs
+C:\Users\pak\source\repos\Lab3Activity1(RE for constants)\Lab3Activity1(RE for constants)\obj\Debug\net6.0-windows\Lab3Activity1(RE for constants).csproj.CoreCompileInputs.cache
+C:\Users\pak\source\repos\Lab3Activity1(RE for constants)\Lab3Activity1(RE for constants)\obj\Debug\net6.0-windows\Lab3Activity1(RE for constants).dll
+C:\Users\pak\source\repos\Lab3Activity1(RE for constants)\Lab3Activity1(RE for constants)\obj\Debug\net6.0-windows\refint\Lab3Activity1(RE for constants).dll
+C:\Users\pak\source\repos\Lab3Activity1(RE for constants)\Lab3Activity1(RE for constants)\obj\Debug\net6.0-windows\Lab3Activity1(RE for constants).pdb
+C:\Users\pak\source\repos\Lab3Activity1(RE for constants)\Lab3Activity1(RE for constants)\obj\Debug\net6.0-windows\Lab3Activity1(RE for constants).genruntimeconfig.cache
+C:\Users\pak\source\repos\Lab3Activity1(RE for constants)\Lab3Activity1(RE for constants)\obj\Debug\net6.0-windows\ref\Lab3Activity1(RE for constants).dll
